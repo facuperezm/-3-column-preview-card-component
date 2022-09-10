@@ -1,34 +1,60 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend Mentor - 3 Column Preview Card SOLUTION
 
-## Getting Started
+## Welcome! 👋
 
-First, run the development server:
+Thanks for checking out my solution for this front-end coding challenge.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Table of contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Overview
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Users should be able to:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
 
-## Learn More
+## Screenshot
 
-To learn more about Next.js, take a look at the following resources:
+![]()
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Links
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Live site deployed on Vercel: [Deploy]()
 
-## Deploy on Vercel
+## Built with
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- HTML5
+- CSS
+- Flexbox
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## What I learned
+
+During the process of building the app I learned how to use Next.js
+
+### Continued development
+
+I will continue learning Next.js
+
+### Useful resources
+
+- [Next.js Docs](https://nextjs.org/docs)
+
+## Author
+
+- Github Profile - [https://github.com/facuperezm](https://github.com/facuperezm)
+- FrontendMentor - [https://www.frontendmentor.io/facuperezm](https://www.frontendmentor.io/profile/facuperezm)
+- Twitter - [https://twitter.com/FacuPerezM](https://twitter.com/FacuPerezM)
