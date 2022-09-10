@@ -27,11 +27,11 @@ Users should be able to:
 
 ## Screenshot
 
-![]()
+![3 Column](./screenshot/Captura.PNG)
 
 ## Links
 
-- Live site deployed on Vercel: [Deploy]()
+- Live site deployed on Vercel: [Deploy](https://3-column-facundo.vercel.app/)
 
 ## Built with
 
